@@ -7,4 +7,4 @@
 - HMTL
 
 # Design Desisions:
-- Decided to use a bit of CSS to spruce up the webpage a bit and make things look a little more appealing.
+- Added 2 additional recpies in order to diversify the webpage and add varity.
